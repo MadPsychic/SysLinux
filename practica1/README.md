@@ -12,3 +12,4 @@ Observamos que instalamos *VMWare Workstation 17* y por la siguente imagen, es a
 </p>
 
 ## Máquina virtual Debian 12
+

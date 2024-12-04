@@ -1,20 +1,20 @@
-# Práctica 1 
-En ésta práctica instalaremos el sistema operativo *Debian 12 Bookworm* sin entorno gráfico en una máquina virtual.
+# Práctica 3 
+En ésta práctica aseguraremos el *bootloader* de *Debian 12 Bookworm* en nuestra máquina virtual.
 
-## Instalación VMWare
+## Demostración de edición de los parametros del GRUB
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2012-08-49.png?raw=true" alt="Instalado" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica3/imgs/Screenshot%20From%202024-12-03%2015-16-28.png?raw=true" alt="Instalado" />
 </p>
 
-Observamos que instalamos *VMWare Workstation 17* y por la siguente imagen, es algo que se realizo antes del inicio de clases:
+Editamos los parametros del GRUB:
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2012-03-56.png?raw=true" alt="Desde hace rato" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica3/imgs/Screenshot%20From%202024-12-03%2015-18-32.png?raw=true" alt="Desde hace rato" />
 </p>
 
-## Configuración de máquina virtual
-Una vez hemos descargado la imagen de instalación, procedemos a crear la máquina:
+## Entorno en BASH
+Confirmamos que hemos logrado obtener un entorno `bash` como `root` en el sistema:
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-17-40.png?raw=true" alt="Imagen" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica3/imgs/Screenshot%20From%202024-12-03%2015-21-07.png?raw=true" alt="Imagen" />
 </p>
 
 <p align="center">

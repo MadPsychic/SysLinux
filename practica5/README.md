@@ -1,9 +1,12 @@
-# Práctica 1 
-En ésta práctica instalaremos el sistema operativo *Debian 12 Bookworm* sin entorno gráfico en una máquina virtual.
+# Práctica 5 
+En ésta práctica compilaremos un Kernel.
 
-## Instalación VMWare
+## Pre-requisitos
+- Es necesario que dispongamos de 30GB de memoria, de otro modo la compilación no podrá darse.
+
+## Instalación de dependencias
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2012-08-49.png?raw=true" alt="Instalado" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica5/imgs/Screenshot%20From%202024-12-03%2020-08-44.png?raw=true" alt="Instalado" />
 </p>
 
 Observamos que instalamos *VMWare Workstation 17* y por la siguente imagen, es algo que se realizo antes del inicio de clases:

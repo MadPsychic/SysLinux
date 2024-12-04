@@ -1,1 +1,2 @@
-# SysLinux
+# Administración de Sistemas Unix/Linux
+Prácticas

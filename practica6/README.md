@@ -1,6 +1,7 @@
 # Práctica 6 
+En ésta práctica instalaremos y configuraremos *phpMyAdmin*.
 
-## phpMyAdmin
+## Dependencias a instalar
 Instalamos `apache2` en nuestra máquina:
 <p align="center">
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica6/imgs/Screenshot%20From%202024-12-03%2020-32-58.png?raw=true" alt="Instalado" />
@@ -16,51 +17,22 @@ Y continuamos con la instalación de `mariadb` segura:
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica6/imgs/Screenshot%20From%202024-12-03%2020-36-46.png?raw=true" alt="Imagen" />
 </p>
 
+Comporbamos que `mariadb` se ha instalado correctamente:
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-17-58.png?raw=true" alt="Desde hace rato" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica6/imgs/Screenshot%20From%202024-12-03%2020-37-31.png?raw=true" alt="Desde hace rato" />
 </p>
 
+Instalamos otras dependencias relacionadas a *php*:
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-18-02.png?raw=true" alt="Desde hace rato" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica6/imgs/Screenshot%20From%202024-12-03%2020-39-39.png?raw=true" alt="Desde hace rato" />
 </p>
 
+Modificamos la configuración:
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-18-08.png?raw=true" alt="Desde hace rato" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica6/imgs/Screenshot%20From%202024-12-03%2020-44-34.png?raw=true" alt="Desde hace rato" />
 </p>
 
-## Instalación Debian 12
-
+Reiniciamos el servicio:
 <p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-22-46.png?raw=true" alt="Desde hace rato" />
+  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica6/imgs/Screenshot%20From%202024-12-03%2020-45-51.png?raw=true" alt="Desde hace rato" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-23-44.png?raw=true" alt="Desde hace rato" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-25-17.png?raw=true" alt="Desde hace rato" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-26-03.png?raw=true" alt="Desde hace rato" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-30-24.png?raw=true" alt="Desde hace rato" />
-</p>
-
-# Verificación 
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-38-59.png?raw=true" alt="Desde hace rato" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-42-14.png?raw=true" alt="Desde hace rato" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica1/imgs/Screenshot%20From%202024-11-27%2014-42-35.png?raw=true" alt="Desde hace rato" />
-</p>
-

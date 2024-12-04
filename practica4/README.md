@@ -20,6 +20,7 @@ Definimos los metadatos del paquete:
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica4/imgs/Screenshot%20From%202024-12-03%2019-41-56.png?raw=true" alt="Desde hace rato" />
 </p>
 
+Elaboración del paquete:
 <p align="center">
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica4/imgs/Screenshot%20From%202024-12-03%2019-42-48.png?raw=true" alt="Desde hace rato" />
 </p>

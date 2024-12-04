@@ -61,7 +61,7 @@ Verificamos que todavía podemos acceder como usuarios del sistema:
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica3/imgs/Screenshot%20From%202024-12-03%2019-12-42.png?raw=true" alt="Desde hace rato" />
 </p>
 
-Observamos que cuando intentamos editar los parametros del GRUB, ahora debemos ingresar la contraseña para hacerlo:
+Observamos que, ahora, cuando intentamos editar los parametros del GRUB, ahora debemos ingresar la contraseña para hacerlo:
 <p align="center">
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica3/imgs/Screenshot%20From%202024-12-03%2019-24-47.png?raw=true" alt="Desde hace rato" />
 </p>

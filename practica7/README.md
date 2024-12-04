@@ -20,7 +20,7 @@ Reiniciamos y verificamos el estado de `fail2ban`:
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica7/imgs/Screenshot%20From%202024-12-03%2020-53-24.png?raw=true" alt="Desde hace rato" />
 </p>
 
-## Instalación de ClamAV
+## ClamAV
 <p align="center">
   <img src="https://github.com/MadPsychic/SysLinux/blob/main/practica7/imgs/Screenshot%20From%202024-12-03%2020-54-22.png?raw=true" alt="Desde hace rato" />
 </p>
